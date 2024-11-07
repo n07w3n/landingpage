@@ -1,0 +1,11 @@
+header{
+    backdrop-filter: blur(3px);
+}
+a.whatsapp{
+    right: 25px;
+    bottom: 25px;
+    background: #25d366;
+    width: 52px;
+    height: 52px;
+    text-align: center;
+}
