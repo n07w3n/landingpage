@@ -9,4 +9,5 @@ a.whatsapp{
     height: 52px;
     text-align: center;
     z-index: 2;
+    line-height:50px;
 }
