@@ -8,4 +8,5 @@ a.whatsapp{
     width: 52px;
     height: 52px;
     text-align: center;
+    z-index: 2;
 }
